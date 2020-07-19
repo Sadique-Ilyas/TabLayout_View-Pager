@@ -1,0 +1,2 @@
+rootProject.name='TabLayoutUsingViewPager'
+include ':app'
